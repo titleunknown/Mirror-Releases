@@ -9,7 +9,7 @@
 Mirror keeps your files safe by syncing a source folder to one or more destinations — external drives, network volumes, or anywhere on your Mac. No complicated setup — just real-time progress and clear reporting.
 
 <p align="center">
-  <img src="Mirror-Screenshots/Mirror_Screenshot_1.jpg" alt="Mirror main window — a source folder syncing to two destinations" width="800">
+  <img src="Mirror-Screenshots/Mirror_screenshot_1.jpg" alt="Mirror main window — a source folder syncing to two destinations" width="800">
 </p>
 
 ---
@@ -23,7 +23,7 @@ Mirror keeps your files safe by syncing a source folder to one or more destinati
 3. Open Mirror, drop a source folder on the left and a destination on the right, and you're ready to sync.
 
 <p align="center">
-  <img src="Mirror-Screenshots/Mirror_Screenshot_2.jpg" alt="Mirror setup — drop a source folder and a destination folder" width="800">
+  <img src="Mirror-Screenshots/Mirror_screenshot_2.jpg" alt="Mirror setup — drop a source folder and a destination folder" width="800">
 </p>
 
 Requires macOS 14.0 Sonoma or later (including macOS 26 Tahoe), Apple Silicon or Intel.
