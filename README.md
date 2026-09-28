@@ -148,6 +148,7 @@ After the trial, a license is required. Purchase at **[software.fainimade.com](h
 - **Good for life across all 1.x releases** — every 1.x update is free; a new license will be required for 2.0
 - **Moving to a new Mac?** Open **Settings → About → Deactivate This Mac** to free a seat, then activate on the new machine
 - Activation and deactivation need a brief internet connection; day-to-day use works fully offline
+- Purchasing a license agrees to the software policy - https://www.fainimade.com/software-policy
 
 ---
 
